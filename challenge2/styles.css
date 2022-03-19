@@ -1,0 +1,39 @@
+
+
+body {
+  background-image: url('/assets/pokemon-bg.jpg');
+  );
+  
+}
+
+.profil {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background: white;
+  width: 450px;
+  height: 450px;
+  padding: 50px 30px;
+  border-radius: 25px;
+  border-style: outset;
+}
+
+
+.pic img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+
+ktba1 {
+  color: rgb(0, 0, 0);
+  font-size: 40px
+}
+ktba2 {
+  color: rgb(0, 0, 0);
+  font-size: 20px
+}

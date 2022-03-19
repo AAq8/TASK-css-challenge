@@ -1,7 +1,21 @@
 /* Add your code in each class */
 .container {
+  width: 400px;
+  height: 300px;
+  list-style-position: inside;
+  font: 12px "Lucida Times New Roman", Serif;
+  background-color: rgb(255, 255, 175);
+  overflow: scroll;
+  line-height: 2;
 }
+
 .head {
+  background-color: rgb(201, 201, 0);
+  font: 16px Copperplate, Fantasy;
+    position: sticky;
+    text-align: center;
+    top: 0;
+  }
 }
 
 .row {
